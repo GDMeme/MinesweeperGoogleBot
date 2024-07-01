@@ -1,0 +1,11 @@
+{
+  "name": "minesweepergooglebot",
+  "version": "1.0.0",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "jsdom": "^24.1.0",
+    "readline-sync": "^1.4.10",
+    "selenium-webdriver": "^4.21.0"
+  },
+  "type": "module"
+}
