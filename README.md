@@ -1,4 +1,4 @@
-# MinesweeperGoogleBot
+# MinesweeperOnlineBot
 
 Using solver from https://github.com/DavidNHill/JSMinesweeper 
 
